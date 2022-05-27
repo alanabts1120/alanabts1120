@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @alanabts1120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# sobre mim
+-  👋 olá meu nome é @alanabts1120
+- meu email de contato é alana.castro.vieira@escola.pr.gov.br
+- 👀 Eu estou interessada em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
-<!---
-alanabts1120/alanabts1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
